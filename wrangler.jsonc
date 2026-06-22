@@ -1,5 +1,5 @@
 {
-  "name": "pixeldrain-generator",
+  "name": "generator-pxd",
   "main": "worker.js",
-  "compatibility_date": "2026-06-23"
+  "compatibility_date": "2026-06-22"
 }
